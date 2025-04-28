@@ -27,7 +27,6 @@ Let's connect! Feel free to reach out if you have any questions or collaboration
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzasanam08&label=Profile%20views&color=0e75b6&style=flat" alt="inzasanam08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inzasanam08" alt="inzasanam08" /></a> </p>
 
 - 🌱 I’m currently learning **Web and Mobile Application Development**
 
